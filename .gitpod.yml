@@ -5,9 +5,9 @@ tasks:
 vscode:
   extensions:
     - ms-python.python@2019.8.30787:TnGEOx35GXMhyKLjDGz9Aw==
-    - formulahendry.auto-close-tag@0.5.6:oZ/8R2VhZEhkHsoeO57hSw==
     - mkaufman.HTMLHint@0.6.0:TdNYbCmjW8N3yiaPW4/adg==
     - eventyret.bootstrap-4-cdn-snippet@1.6.0:AtNd6GnbCYVpmUkOaFXs3A==
-    - esbenp.prettier-vscode@4.3.0:jkl8NYpF/GzsahVpjggK0Q==
     - kevinglasson.cornflakes-linter@0.4.0:Sgfmpf9YWoF5/BDJu2xn0w==
     - wholroyd.jinja@0.0.8:C3zsj1nZxSJZh/EcV6Hjlg==
+    - esbenp.prettier-vscode@5.0.1:RwSu+IlJT2eB3vwdygaJUQ==
+    - formulahendry.auto-close-tag@0.5.7:ofk2Iz4wGQdoTFrnRwzI7w==

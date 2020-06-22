@@ -26,7 +26,8 @@ SECRET_KEY = '=&vpteu!3=utyhji17g=&mg2a&8q3xyvh9no0x@bm=f3xfcz96'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-d126989c-d507-42fa-98e9-dd286fa44820.ws-eu01.gitpod.io'
+    '8000-d126989c-d507-42fa-98e9-dd286fa44820.ws-eu01.gitpod.io',
+    'localhost',
 ]
 
 
@@ -44,6 +45,7 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     'home',
+    'products',
 ]
 
 MIDDLEWARE = [
